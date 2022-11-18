@@ -7,7 +7,7 @@
   "domain": "solid.data.vlaanderen.be",
   "publicationpoints" : ["production"],
   "generatedrepository" : {
-	  "organisation": "DigitaalVlaanderen",
+	  "organisation": "Informatievlaanderen",
 	  "repository" : "solid.data.vlaanderen.be-generated",
 	  "private" : false
   },
