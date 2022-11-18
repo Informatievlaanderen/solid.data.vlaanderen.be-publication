@@ -1,7 +1,7 @@
 {
-  "primeLanguage": "en",
+  "primeLanguage": "nl",
   "otherLanguages": [
-    "fr", "de"
+    "fr", "de", "en"
   ],
   "hostname": "https://solid.data.vlaanderen.be/",
   "domain": "solid.data.vlaanderen.be",
