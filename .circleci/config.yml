@@ -84,6 +84,7 @@ jobs:
           name: update and add extra statements of updating the ssh config for each private ssh key
           command: |
             $PWD/scripts/update_sshconfig.sh private1
+            $PWD/scripts/update_sshconfig.sh github.com
       - run: mkdir -p workspace
       - run: ls -al workspace
       - run:
