@@ -609,6 +609,6 @@ workflows:
             - render-context-details
             - render-voc-rdf
       - create-artifact:
-          repository: git@solid.data.vlaanderen.be-generated:Informatievlaanderen/solid.data.vlaanderen.be-generated.git
+          repository: git@github.com:Informatievlaanderen/solid.data.vlaanderen.be-generated.git
           requires:
             - expand-links
