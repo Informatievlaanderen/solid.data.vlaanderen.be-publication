@@ -484,10 +484,10 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "$SSHKEYFINGERPRINT"
-      - run:
-          name: update and add extra statements of updating the ssh config for each private ssh key
-          command: |
-            $PWD/scripts/update_sshconfig.sh solid.data.vlaanderen.be-generated
+#      - run:
+#          name: update and add extra statements of updating the ssh config for each private ssh key
+#          command: |
+#            $PWD/scripts/update_sshconfig.sh solid.data.vlaanderen.be-generated
       - run:
           name: Checkout target repo
           workdir: /tmp
