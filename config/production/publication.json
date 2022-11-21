@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "urlref": "/doc/implementatiemodel/leercredential/2022-07-26",
+    "repository": "https://github.com/Informatievlaanderen/SolidThema-leercredential",
+    "branchtag": "master",
+    "filename": "config/leercredential-ap.json",
+    "name": "leercredential-ap",
+    "type": "ap",
+    "dummy": "dimi-1",
+    "navigation": {}
+  }
+]
