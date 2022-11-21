@@ -487,7 +487,7 @@ jobs:
       - run:
           name: update and add extra statements of updating the ssh config for each private ssh key
           command: |
-            $PWD/scripts/update_sshconfig.sh $$GENERATEDREPO
+            $PWD/scripts/update_sshconfig.sh solid.data.vlaanderen.be-generated
       - run:
           name: Checkout target repo
           workdir: /tmp
@@ -552,9 +552,9 @@ workflows:
           other_folder: dev
           test_folder: test
           production_folder: production
-          other_hostname: $$DEVHOSTNAME
-          test_hostname: $$TESTHOSTNAME
-          production_hostname: $$PRODHOSTNAME
+          other_hostname: dev
+          test_hostname: test
+          production_hostname: production
       - extract-jsonld-details:
           requires:
             - checkout
@@ -609,6 +609,6 @@ workflows:
             - render-context-details
             - render-voc-rdf
       - create-artifact:
-          repository: $$GITURL-GENERATEDREPO
+          repository: git@solid.data.vlaanderen.be-generated:Informatievlaanderen/solid.data.vlaanderen.be-generated.git
           requires:
             - expand-links
