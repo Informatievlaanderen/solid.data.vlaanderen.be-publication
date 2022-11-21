@@ -481,13 +481,13 @@ jobs:
       - checkout
       - attach_workspace:
           at: /tmp/workspace
-     - add_ssh_keys:
-         fingerprints:
-           - "rLOU5qsVTIkvI/M8uoqCWDkxBeyI8SoRPgcATpjQZMI"
-     - run:
-         name: update and add extra statements of updating the ssh config for each private ssh key
-         command: |
-           $PWD/scripts/update_sshconfig.sh solid.data.vlaanderen.be-generated
+      - add_ssh_keys:
+          fingerprints:
+            - "rLOU5qsVTIkvI/M8uoqCWDkxBeyI8SoRPgcATpjQZMI"
+      - run:
+          name: update and add extra statements of updating the ssh config for each private ssh key
+          command: |
+            $PWD/scripts/update_sshconfig.sh solid.data.vlaanderen.be-generated
       - run:
           name: Checkout target repo
           workdir: /tmp
