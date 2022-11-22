@@ -1,12 +1,12 @@
 [
   {
-    "urlref": "/doc/implementatiemodel/alarmbelprocedureformulier/2022-07-26",
+    "urlref": "/doc/applicatieprofiel/alarmbelprocedureformulier/2022-11-22",
     "repository": "https://github.com/Informatievlaanderen/SolidThema-looncredential",
     "branchtag": "master",
     "filename": "config/alarmbelprocedureformulier.json",
     "name": "alarmbelprocedureformulier-ap",
     "type": "ap",
-    "dummy": "dimi-1",
+    "dummy": "dimi-2",
     "navigation": {}
   }
 ]
