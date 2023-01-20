@@ -5,13 +5,13 @@
   ],
   "hostname": "https://solid.data.vlaanderen.be/",
   "domain": "solid.data.vlaanderen.be",
-  "publicationpoints" : ["production"],
+  "publicationpoints" : ["test", "production"],
   "generatedrepository" : {
 	  "organisation": "Informatievlaanderen",
 	  "repository" : "solid.data.vlaanderen.be-generated",
 	  "private" : false
   },
-  "toolchainversion" : "3.0.3",
+  "toolchainversion" : "3.0.5",
   "toolchain" : {
 	  "strickness" : "lazy",
 	  "version": 3,
