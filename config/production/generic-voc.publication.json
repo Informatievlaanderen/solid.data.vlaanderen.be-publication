@@ -7,8 +7,8 @@
   },
   {
     "urlref": "/doc/vocabularium/generic/2023-02-01",
-    "repository": "https://github.com/Informatievlaanderen/SolidThema-leercredential",
-    "filename": "config/generic-voc.json",
+    "repository": "https://github.com/Informatievlaanderen/SolidThema-generiek",
+    "filename": "config/generic.json",
     "name": "generic",
     "branchtag": "master",
     "type": "voc",
