@@ -1,0 +1,10 @@
+{
+ :solid              {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/solid-master/all.ttl"
+                      :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/solid"
+                      :clj-pipelines/dumpname             "solid.ttl.gz"}
+ :codelistmuuuid58   {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/solid-master/muuid.nt"
+                      :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/solid-muuuid"
+                      :clj-pipelines/dumpname             "solid.muuid.ttl.gz"}
+}
