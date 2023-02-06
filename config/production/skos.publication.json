@@ -1,12 +1,12 @@
 [
   {
-    "urlref": "/doc/applicatieprofiel/skos/2022-12-13",
+    "urlref": "/doc/applicatieprofiel/skos/2023-01-01",
     "repository": "https://github.com/Informatievlaanderen/SolidThema-generiek",
     "branchtag": "master",
     "filename": "config/skos-ap.json",
     "name": "skos-ap",
     "type": "ap",
-    "dummy": "dimi-5",
+    "dummy": "dimi-6",
     "navigation": {}
   }
 ]
