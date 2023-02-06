@@ -1,8 +1,8 @@
 [
   {
     "urlref": "/doc/implementatiemodel/generic/2023-01-10",
-    "repository": "https://github.com/Informatievlaanderen/SolidThema-leercredential",
-    "filename": "config/generic-ap.json",
+    "repository": "https://github.com/Informatievlaanderen/SolidThema-generiek",
+    "filename": "config/generic.json",
     "name": "generic-ap",
     "branchtag": "master",
     "type": "ap",
