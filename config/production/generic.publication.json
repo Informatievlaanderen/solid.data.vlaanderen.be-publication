@@ -1,12 +1,12 @@
 [
   {
-    "urlref": "/doc/implementatiemodel/generic/2023-01-10",
+    "urlref": "/doc/implementatiemodel/generic/2023-02-01",
     "repository": "https://github.com/Informatievlaanderen/SolidThema-generiek",
     "filename": "config/generic.json",
     "name": "generic-ap",
     "branchtag": "master",
     "type": "ap",
-    "dummy": "dimi-2",
+    "dummy": "dimi-3",
     "navigation": {}
   }
 ]
