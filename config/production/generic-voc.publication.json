@@ -3,7 +3,7 @@
     "urlref": "/ns/generic",
     "seealso": "/doc/vocabularium/generic/2023-02-01",
     "type": "voc",
-    "dummy": "dimi-2"
+    "dummy": "dimi-3"
   },
   {
     "urlref": "/doc/vocabularium/generic/2023-02-01",
@@ -12,7 +12,7 @@
     "name": "generic",
     "branchtag": "master",
     "type": "voc",
-    "dummy": "dimi-2",
+    "dummy": "dimi-3",
     "navigation": {}
   }
 ]
