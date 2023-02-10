@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/skos",
     "seealso": "/doc/implementatiemodel/skos/2023-02-01",
     "type": "ap",
-    "dummy": "dimi-9"
+    "dummy": "dimi-10"
   },
   {
     "urlref": "/doc/implementatiemodel/skos/2023-02-01",
@@ -12,7 +12,7 @@
     "filename": "config/skos-ap.json",
     "name": "skos-ap",
     "type": "ap",
-    "dummy": "dimi-9",
+    "dummy": "dimi-10",
     "navigation": {}
   }
 ]
