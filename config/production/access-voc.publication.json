@@ -1,0 +1,18 @@
+[
+  {
+    "urlref": "/ns/access",
+    "seealso": "/doc/vocabularium/access/2023-02-01",
+    "type": "voc",
+    "dummy": "dimi-1"
+  },
+  {
+    "urlref": "/doc/vocabularium/access/2023-02-01",
+    "repository": "https://github.com/Informatievlaanderen/SolidThema-generiek",
+    "filename": "config/access.json",
+    "name": "access",
+    "branchtag": "master",
+    "type": "voc",
+    "dummy": "dimi-1",
+    "navigation": {}
+  }
+]
