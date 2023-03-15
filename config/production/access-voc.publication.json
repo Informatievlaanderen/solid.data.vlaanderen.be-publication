@@ -3,7 +3,7 @@
     "urlref": "/ns/access",
     "seealso": "/doc/vocabularium/access/2023-02-01",
     "type": "voc",
-    "dummy": "dimi-2"
+    "dummy": "dimi-3"
   },
   {
     "urlref": "/doc/vocabularium/access/2023-02-01",
@@ -12,7 +12,7 @@
     "name": "access",
     "branchtag": "master",
     "type": "voc",
-    "dummy": "dimi-2",
+    "dummy": "dimi-3",
     "navigation": {}
   }
 ]
