@@ -1,5 +1,7 @@
 {
     "@context": {
+        "@version": 1.1,
+        "@protected": true,
         "forPersonalDataType": {
             "@id": "https://solid.data.vlaanderen.be/ns/access#forPersonalDataType",
             "@type": "@vocab"
