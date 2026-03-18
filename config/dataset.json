@@ -1,0 +1,152 @@
+{
+  "conceptSchemes": [
+    {
+      "urlRef": "Leercredential-Authenticiteit",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Authenticiteit.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Bewijsstaat",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Bewijsstaat.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Bewijstype",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Bewijstype.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Categorie",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Categorie.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Detailonderwerp",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Detailonderwerp.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Graad",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Graad.ttl"
+    },
+    {
+      "urlRef": "Leercredential-ISCEDNiveau",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/ISCEDNiveau.ttl"
+    },
+    {
+      "urlRef": "Leercredential-ISCEDStudiegebied",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/ISCEDStudiegebied.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Instantie",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Instantie.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Land",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Land.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Leverancier",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Leverancier.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Onderwerp",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Onderwerp.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Onderwijsvorm",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Onderwijsvorm.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Schooltype",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Schooltype.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Specialisatie",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Specialisatie.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Studierichting",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Studierichting.ttl"
+    },
+    {
+      "urlRef": "Leercredential-Taal",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/Taal.ttl"
+    },
+    {
+      "urlRef": "Leercredential-VKSNiveauBeroepskwalificatie",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/VKSNiveauBeroepskwalificatie.ttl"
+    },
+    {
+      "urlRef": "Leercredential-VKSNiveauOnderwijskwalificatie",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/VKSNiveauOnderwijskwalificatie.ttl"
+    },
+    {
+      "urlRef": "Leercredential-aanleiding",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/aanleiding.ttl"
+    },
+    {
+      "urlRef": "data-type",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/data-type.ttl"
+    },
+    {
+      "urlRef": "leercredential-duaal-leren",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/duaal-leren.ttl"
+    },
+    {
+      "urlRef": "leercredential-instantie",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/instantie.ttl"
+    },
+    {
+      "urlRef": "leercredential-niveau",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/niveau.ttl"
+    },
+    {
+      "urlRef": "purpose",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/purpose.ttl"
+    },
+    {
+      "urlRef": "situatie-na",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/situatie-na.ttl"
+    },
+    {
+      "urlRef": "leercredential-soort-contract",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/soort-contract.ttl"
+    },
+    {
+      "urlRef": "leercredential-soort-onderwijs",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/soort-onderwijs.ttl"
+    },
+    {
+      "urlRef": "leercredential-soort-programma",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/soort-programma.ttl"
+    },
+    {
+      "urlRef": "leercredential-soort",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/soort.ttl"
+    },
+    {
+      "urlRef": "leercredential-status",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/status.ttl"
+    },
+    {
+      "urlRef": "test",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/test.ttl"
+    },
+    {
+      "urlRef": "leercredential-type-buitengewoon",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-leercredential/raw/master/codelijsten/type-buitengewoon.ttl"
+    },
+    {
+      "urlRef": "Persooncredential-BurgerlijkeStaatType",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-persooncredential/raw/main/codelijsten/BurgerlijkeStaatType.ttl"
+    },
+    {
+      "urlRef": "Persooncredential-Geslacht",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-persooncredential/raw/main/codelijsten/Geslacht.ttl"
+    },
+    {
+      "urlRef": "Persooncredential-Identificator",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-persooncredential/raw/main/codelijsten/Identificator.ttl"
+    },
+    {
+      "urlRef": "Persooncredential-Landcode",
+      "sourceUrl": "https://github.com/Informatievlaanderen/SolidThema-persooncredential/raw/main/codelijsten/Landcode.ttl"
+    }
+  ]
+}
