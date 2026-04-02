@@ -7,17 +7,12 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-    <link href="https://ui.vlaanderen.be/3.latest/css/vlaanderen-ui.css" rel="stylesheet">
-
-    <link rel="icon" sizes="192x192" href="https://ui.vlaanderen.be/3.latest/icons/app-icon/icon-highres-precomposed.png">
-    <link rel="apple-touch-icon" href="https://ui.vlaanderen.be/3.latest/icons/app-icon/touch-icon-iphone-precomposed.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://ui.vlaanderen.be/3.latest/icons/app-icon/touch-icon-ipad-precomposed.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://ui.vlaanderen.be/3.latest/icons/app-icon/touch-icon-iphone-retina-precomposed.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://ui.vlaanderen.be/3.latest/icons/app-icon/touch-icon-ipad-retina-precomposed.png">
-    <meta name="msapplication-square70x70logo" content="https://ui.vlaanderen.be/3.latest/icons/app-icon/tile-small.png">
-    <meta name="msapplication-square150x150logo" content="https://ui.vlaanderen.be/3.latest/icons/app-icon/tile-medium.png">
-    <meta name="msapplication-wide310x150logo" content="https://ui.vlaanderen.be/3.latest/icons/app-icon/tile-wide.png">
-    <meta name="msapplication-square310x310logo" content="https://ui.vlaanderen.be/3.latest/icons/app-icon/tile-large.png">
+    <link href="https://data.vlaanderen.be/assets/css/index.css" rel="stylesheet">
+    <link rel="icon" sizes="192x192" href="https://data.vlaanderen.be/assets/favicon/icons/icon-highres-precomposed.png">
+    <meta name="msapplication-square70x70logo" content="https://data.vlaanderen.be/assets/favicon/icons/tile-small.png">
+    <meta name="msapplication-square150x150logo" content="https://data.vlaanderen.be/assets/favicon/icons/tile-medium.png">
+    <meta name="msapplication-wide310x150logo" content="https://data.vlaanderen.be/assets/favicon/icons/tile-wide.png">
+    <meta name="msapplication-square310x310logo" content="https://data.vlaanderen.be/assets/favicon/icons/tile-large.png">
     <meta name="msapplication-TileColor" content="#FFE615">
 </head>
 
@@ -61,8 +56,8 @@
                             </div>
                         </div>
                         <div class="vl-col--5-6 vl-col--1-1--s">
-                            <div class="js-vl-scrollspy__content">
-                                <section class="vl-infoblock vl-infoblock--news" id="soliddatavlaanderen">
+                            <div class="js-vl-scrollspy__content" data-vl-scrollspy-content>
+                                <section class="vl-infoblock vl-infoblock--news vl-u-spacer--medium" id="soliddatavlaanderen">
                                     <header class="vl-infoblock__header">
                                         <i class="vl-infoblock__header__icon" aria-hidden="true"></i>
                                         <h1 class="vl-infoblock__title">Solid.data.vlaanderen.be</h1>
@@ -92,7 +87,7 @@
                                         </div>
                                     </div>
                                 </section>
-                                <section class="vl-infoblock vl-infoblock--publications">
+                                <section class="vl-infoblock vl-infoblock--publications vl-u-spacer--medium">
                                     <header class="vl-infoblock__header" id="implementatiemodellen">
                                         <i class="vl-infoblock__header__icon" aria-hidden="true"></i>
                                         <h2 class="vl-infoblock__title">Implementatiemodellen</h2>
@@ -148,7 +143,7 @@
                                         </div>
                                     </div>
                                 </section>
-                                <section class="vl-infoblock vl-infoblock--publications">
+                                <section class="vl-infoblock vl-infoblock--publications vl-u-spacer--medium">
                                     <header class="vl-infoblock__header" id="vocabularia">
                                         <i class="vl-infoblock__header__icon" aria-hidden="true"></i>
                                         <h2 class="vl-infoblock__title">Vocabularia</h2>
@@ -455,21 +450,21 @@
                         </div>
 
                         <div class="vl-col--1-6 vl-col--1-1--s">
-                            <nav class="vl-side-navigation js-vl-side-navigation js-vl-sticky js-vl-scrollspy" data-vl-side-navigation data-vl-side-navigation-scrollable data-vl-scrollspy data-vl-scrollspy-mobile="Componenten" data-vl-sticky data-vl-sticky-offset-top="25" aria-label="inhoudsopgave">
+                            <nav aria-labelledby="vl-sidenavigation-title" class="vl-side-navigation js-vl-side-navigation js-vl-sticky js-vl-scrollspy js-vl-sticky--viewport-top" data-vl-side-navigation data-vl-side-navigation-scrollable data-vl-scrollspy data-vl-sticky="" data-vl-sticky-offset-top="25" aria-label="inhoudsopgave" data-landmark-index="3">
                                 <h5 class="vl-side-navigation__title">Op deze pagina</h5>
                                 <div class="vl-side-navigation__content">
                                     <ul class="vl-side-navigation__group">
                                         <li class="vl-side-navigation__item">
-                                            <div><a href="#soliddatavlaanderen" data-child="parent-1">Solid.data.vlaanderen</a></div>
+                                            <div><a class="vl-side-navigation__toggle js-vl-scrollspy-active" href="#soliddatavlaanderen" data-child="parent-1">Solid.data.vlaanderen</a></div>
                                         </li>
                                         <li class="vl-side-navigation__item">
-                                            <div><a href="#implementatiemodellen" data-child="parent-2">Implementatiemodellen</a></div>
+                                            <div><a class="vl-side-navigation__toggle" href="#implementatiemodellen" data-child="parent-2">Implementatiemodellen</a></div>
                                         </li>
                                         <li class="vl-side-navigation__item">
-                                            <div><a href="#vocabularia" data-child="parent-3">Vocabularia</a></div>
+                                            <div><a class="vl-side-navigation__toggle" href="#vocabularia" data-child="parent-3">Vocabularia</a></div>
                                         </li>
                                         <li class="vl-side-navigation__item">
-                                            <div><a href="#codelijsten" data-child="parent-4">Codelijsten</a></div>
+                                            <div><a class="vl-side-navigation__toggle" href="#codelijsten" data-child="parent-4">Codelijsten</a></div>
                                         </li>
                                     </ul>
                                 </div>
@@ -487,9 +482,11 @@
         <!-- End global footer-->
     </div>
 
-    <script src="https://ui.vlaanderen.be/3.latest/js/vlaanderen-ui.js">
-            < ![CDATA[]] >
-    </script>
+    <script src="https://data.vlaanderen.be/assets/dist/core.js"></script>
+    <script src="https://data.vlaanderen.be/assets/dist/accordion.js"></script>
+    <script src="https://data.vlaanderen.be/assets/dist/side-navigation.js"></script>
+    <script src="https://data.vlaanderen.be/assets/dist/select.js"></script>
+    <script src="https://data.vlaanderen.be/assets/dist/tooltip.js"></script>
 
     <style>
         html {
@@ -523,12 +520,21 @@
             color: #333332
         }
 
+        .vl-doormat[href]::before {
+            background-color: #06c;
+            transition: background-color 0.2s;
+        }
+
+        .vl-doormat[href]:hover::before {
+            background-color: #3184d6;
+        }
+        .vl-doormat[href]:visited::before {
+            background-color: #3184d6;
+        }
+
         .vl-infoblock__header__icon {
             color: white;
-            background-color: transparent;
-            background: -webkit-linear-gradient(200deg, transparent 20px, #9A50BE 20px);
-            background: linear-gradient(-110deg, transparent 20px, #9A50BE 20px);
-            width: 7rem
+            background-color: #9A50BE;
         }
 
         .vl-introduction {
